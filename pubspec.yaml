@@ -59,6 +59,9 @@ dependencies:
   #cached image
   cached_network_image: ^3.3.0
 
+  #
+  dio: ^5.3.3
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
